@@ -16,7 +16,7 @@
 	<table>
     	<tr>
         <td><img src="/img/pan.png" alt=""></td>
-        <td height="100">Comidas Caceras - Rosario</td>
+        <td><img src="/img/menu.png" alt=""></td>
         <td><img src="/img/copa.png" alt=""></td>
         </tr>
     	<tr>
